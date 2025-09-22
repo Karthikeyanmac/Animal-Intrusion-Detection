@@ -2,6 +2,6 @@
 The system uses an Ultrasonic sensor with ESP32 to detect animal movement, triggering LEDs and Buzzers for immediate alert. Data is sent to InfluxDB and visualized on Grafana for real-time monitoring. Integrated SMS notifications to instantly alert farmers about intrusion events.
 # Animal Intrusion Detection System
 
-![Circuit Diagram](Images/Circuit_Diagram.png)
-![Hardware Setup](Images/Hardware_Setup.jpg)
+![Circuit Diagram](Images/Circuit Diagram.png)
+![Hardware Setup](Images/Hardware setup.jpeg)
 
