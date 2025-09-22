@@ -14,7 +14,7 @@ The system uses an Ultrasonic sensor with ESP32 to detect animal movement, trigg
 
 ![Hardware setup](https://github.com/Karthikeyanmac/Animal-Intrusion-Detection/blob/main/Influx%20DB.jpeg)
 
-![Hardware setup](
+![Hardware setup](https://github.com/Karthikeyanmac/Animal-Intrusion-Detection/blob/main/Grafana.jpeg)
 
 ![Hardware setup](https://github.com/Karthikeyanmac/Animal-Intrusion-Detection/blob/main/Notification.jpeg)
 
