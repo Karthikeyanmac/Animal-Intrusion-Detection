@@ -3,5 +3,5 @@ The system uses an Ultrasonic sensor with ESP32 to detect animal movement, trigg
 # Animal Intrusion Detection System
 
 ![Circuit Diagram](Images/Circuit Diagram.png)
-![Hardware Setup](Images/Hardware setup.jpeg)
+![Hardware setup](Images/Hardware setup.jpeg)
 
